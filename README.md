@@ -39,6 +39,7 @@ Complete the following steps:
 
   7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
+
 # Advanced Challenge Assignment (Optional with no extra points earning)
 
 The following task is advanced and therefore optional:
