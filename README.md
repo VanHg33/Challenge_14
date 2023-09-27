@@ -1,6 +1,9 @@
 # Challenge_14
 Interactive_Visualisations
 
+# Deployment
+Here is a link to the dashboard: https://vanhg33.github.io/Challenge_14_Interactive_Visualisations/
+
 # Background
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.
